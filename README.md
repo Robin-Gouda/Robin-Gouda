@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning the MERN stack
 - 📫 How to reach me ... robin2contact@gmail.com
+- Linkedin - in/robin-gouda-2a682126a
 
 <!---
 Robin-Gouda/Robin-Gouda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
