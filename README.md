@@ -5,9 +5,8 @@
   
    - Mail- robin2contact@gmail.com
    - Linkedin - https://www.linkedin.com/in/robin-gouda-2a682126a
- 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Gouda&layout=compact)
+
+
 
 
 <!---
